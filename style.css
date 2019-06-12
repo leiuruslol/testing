@@ -1,0 +1,8 @@
+/* 這是CSS 選擇器*/
+/* 這是標籤名稱 選擇器*/
+body{background-color:yellow;text-align:center;}
+/* 這是class 選擇器*/
+.title{color:red;font-weight:bold;font-size:24px}
+.content{color:grey;border:1px solid blue;padding:10px;margin-top:10px}
+.keyword{color:red}
+.underline{text-decoration:underline}
